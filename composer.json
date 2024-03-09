@@ -25,7 +25,8 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "helloJarvish\\": "helloJarvish/src"
+            "helloJarvish\\": "helloJarvish/src",
+            "LP\\Calculator\\": "packages/LP/Calculator/src"
         }
     },
     "autoload-dev": {

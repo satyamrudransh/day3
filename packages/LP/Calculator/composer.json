@@ -1,0 +1,10 @@
+{
+    "name": "lp/calculator",
+    "authors": [
+        {
+            "name": "SATYAM SAHU",
+            "email": "satyam.sahu@thehigherpitch.com"
+        }
+    ],
+    "require": {}
+}
