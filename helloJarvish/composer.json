@@ -1,0 +1,10 @@
+{
+    "name": "satyam/jarvish",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          
+            "helloJarvish\\": "src"
+        }
+    }
+}
