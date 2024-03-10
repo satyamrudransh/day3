@@ -175,6 +175,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         LP\Calculator\CalculatorServiceProvider::class,
+        Satyam\Contact\ContactServiceProvider::class,
     ],
 
     /*
